@@ -1,6 +1,8 @@
-# Name
+# Educational App
 
-Name is a full stack JavaScript application with an Express server and MongoDB database.
+Educational App is a full stack JavaScript application with an Express server and MongoDB database.
+
+It has been completed using Agile Development approach.
 
 ## Getting Started
 
